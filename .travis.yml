@@ -13,4 +13,4 @@ install:
   - go get github.com/dgryski/go-jump
   - go get github.com/GaryBoone/GoStats/stats
 script:
-    - $HOME/gopath/bin/goveralls -repotoken wo3JaIedvAgO42RJA3YvNBNmvpPwAWzid
+    - $HOME/gopath/bin/goveralls -repotoken $COVERALLS_TOKEN
