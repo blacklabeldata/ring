@@ -1,5 +1,4 @@
-# Ring [![Coverage Status](https://coveralls.io/repos/eliquious/ring/badge.png)](https://coveralls.io/r/blacklabeldata/ring) [![Build Status](https://travis-ci.org/eliquious/ring.svg?branch=master)](https://travis-ci.org/blacklabeldata/ring)
-
+# Ring [![Coverage Status](https://coveralls.io/repos/blacklabeldata/ring/badge.svg?branch=master&service=github)](https://coveralls.io/github/blacklabeldata/ring?branch=master)
 
     import "github.com/blacklabeldata/ring"
 
